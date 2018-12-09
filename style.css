@@ -57,12 +57,18 @@ body{
 }
 @media(max-width: 580px){
 .container{
-    width: 370px;
+    width: 300px;
   }
   .heading h1{
     font-size: 30px;
   }
   .heading p{
     font-size: 12px;
+  }
+  h2{
+    font-size: small;
+  }
+  .profile{
+    width: 100px;
   }
 }

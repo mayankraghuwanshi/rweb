@@ -18,10 +18,16 @@
 body{
   font-family: 'Lato', sans-serif;
 }
+.container{
+  margin: auto;
+  width: 700px;
+}
 .heading{
   text-align: center;
+  margin: 0;
 }
 .heading h1{
+  line-height: 0;
   font-size: 60px
 }
 .heading tr{

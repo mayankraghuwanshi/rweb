@@ -20,8 +20,8 @@ body{
 }
 .profile{
 
-  margin: 20px auto;
-  width: 200px;
+  margin: auto;
+  width: 300px;
   border-radius: 60%;
 }
 
@@ -74,7 +74,7 @@ body{
     font-size: small;
   }
   .profile{
-    width: 100px;
+    width: 200px;
   }
   .logo{
     width: 30px;

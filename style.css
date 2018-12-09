@@ -18,6 +18,12 @@
 body{
   font-family: 'Lato', sans-serif;
 }
+.profile{
+  margin: auto;
+  width: 200px;
+  border-radius: 60%;
+}
+
 .container{
   margin: auto;
   width: 700px;

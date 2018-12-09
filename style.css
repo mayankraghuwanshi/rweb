@@ -25,6 +25,8 @@ body{
 }
 
 .container{
+  transition-property: all;
+  transition-duration: .5s;
   margin: auto;
   width: 700px;
 }
@@ -33,6 +35,8 @@ body{
   margin: 0;
 }
 .heading h1{
+  transition-property: all;
+  transition-duration: .5s;
   line-height: 0;
   font-size: 60px
 }

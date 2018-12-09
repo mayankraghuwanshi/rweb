@@ -19,7 +19,8 @@ body{
   font-family: 'Lato', sans-serif;
 }
 .profile{
-  margin: auto;
+
+  margin: 20px auto;
   width: 200px;
   border-radius: 60%;
 }
@@ -27,7 +28,7 @@ body{
 .container{
   transition-property: all;
   transition-duration: .5s;
-  margin: auto;
+  margin: 20px auto;
   width: 700px;
 }
 .heading{
@@ -47,6 +48,10 @@ body{
   width: 50px;
   height: auto;
 }
+.sec-1{
+  margin-top: 100px;
+}
+
 @media(max-width: 750px ){
   .container{
     width: 500px;
@@ -70,5 +75,8 @@ body{
   }
   .profile{
     width: 100px;
+  }
+  .logo{
+    width: 30px;
   }
 }
